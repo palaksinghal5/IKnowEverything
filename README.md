@@ -1,6 +1,6 @@
 # iknoweverything
 
-A new Flutter project.
+A new Flutter project. - https://iknoweverythinglol.netlify.app/#/
 
 ## Getting Started
 
